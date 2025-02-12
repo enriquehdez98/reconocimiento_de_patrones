@@ -10,3 +10,4 @@ La estructura de la unidad de aprendizaje consta de cuatro unidades temáticas. 
 ![image](https://github.com/user-attachments/assets/bb05a2b9-812f-4c5b-89c9-d41834e34fe3)
 ![image](https://github.com/user-attachments/assets/d6fd3b1c-3200-4dc3-9b65-1acfc9069d03)
 
+Nota: Link del taller: https://sites.google.com/view/dimemex-2025/home?authuser=0
